@@ -2,14 +2,6 @@
 
 ### A passionate Game/Front-End Developer from VietNam
 
-- 🔭 I’m currently working on **something awsome**
-
-- 🌱 I’m currently learning **Typescript/Python**
-
-- 👯 I’m looking to collaborate on [CocosCreatorProject](https://github.com/kidcry0x/CocosCreatorProject)
-
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **tranquangminh.hust@gmail.com**
 
 ## Connect with me 👀
