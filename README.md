@@ -1,6 +1,6 @@
 # Hi 👋, I'm Minh Tran
 
-### A passionate Game/Front-End Developer from VietNam
+### 
 
 - 📫 How to reach me **tranquangminh.hust@gmail.com**
 
