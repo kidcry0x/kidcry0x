@@ -9,7 +9,7 @@
 <a href="https://fb.com/tqm.051101z" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
 <a href="https://www.linkedin.com/in/tranquangminh-hust" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://stackoverflow.com/users/16124902/tran-quang-minh" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="facebook"/></a>
-<a href="https://codepen.io/kidcry0x" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="facebook"/></a>
+
 
 <!-- ## Languages and Tools 🛠 -->
 
