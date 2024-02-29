@@ -1,8 +1,10 @@
 # Hi 👋, I'm Minh Tran
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidcry0x&show_icons=true&theme=dark)](https://github.com/kidcry0x)
+
 ### 
 
-- 📫 How to reach me **tranquangminh.hust@gmail.com**
+- 📫 How to reach me **minhtq.dev.work@gmail.com**
 
 # Connect with me 👀
 
