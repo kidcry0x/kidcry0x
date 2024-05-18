@@ -8,8 +8,10 @@
 
 # Connect with me 👀
 
-- My LinkedIn: <a href="https://www.linkedin.com/in/minhtqdev" target="blank"><img align="center" src="https://img.shields.io/badge/minhtqdev-LinkedIn-blue?logo=linkedin" alt="linkedin"/></a>
-- My other github account: <a href="https://github.com/minhtqdev" target="blank"><img align="center" src="https://img.shields.io/badge/minhtqdev-Github-blue?logo=github" alt="github"/></a>
+- **My LinkedIn**: <a href="https://www.linkedin.com/in/minhtqdev" target="blank"><img align="center" src="https://img.shields.io/badge/minhtqdev-LinkedIn-blue?logo=linkedin" alt="linkedin"/></a>
+
+- **My other github account**: <a href="https://github.com/minhtqdev" target="blank"><img align="center" src="https://img.shields.io/badge/minhtqdev-Github-blue?logo=github" alt="github"/></a>
+
   
 # Some of the projects I've worked on
 
