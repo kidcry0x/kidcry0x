@@ -5,7 +5,7 @@
 ### 
 
 - 📫 How to reach me **minhtq.dev.work@gmail.com**
-- My other github account [**minhtqdev**](https://github.com/minhtqdev)
+- 👻 My other github account: [**minhtqdev**](https://github.com/minhtqdev)
   
 # Some of the projects I've worked on
 
@@ -22,22 +22,17 @@
 
 - [**playable-ads-archives**](https://github.com/kidcry0x/playable-ads-archives)
 
-# Online Game
+# Multiplayer Games
 
-- [**Macaroon Casino**]
+- [**Macaroon Casino**]("")
+- [**Aviator**]("")
 
 # Tech Stack ⭐
 - ![](https://img.shields.io/badge/-Cocos-orange?style=flat&logo=Cocos)
   ![](https://img.shields.io/badge/-Unity-orange?style=flat&logo=Unity)
+  ![](https://img.shields.io/badge/-PlayCanvas-orange?style=flat&logo=PlayCanvas)
 - ![](https://img.shields.io/badge/-JavaScript-green?style=flat&logo=JavaScript)
   ![](https://img.shields.io/badge/-TypeScript-green?style=flat&logo=TypeScript)
-- ![](https://img.shields.io/badge/-CSharp-red?style=flat&logo=CSharp)
+  ![](https://img.shields.io/badge/-CSharp-red?style=flat&logo=CSharp)
   ![](https://img.shields.io/badge/-Go-red?style=flat&logo=Go)
-  ![](https://img.shields.io/badge/-Lua-red?style=flat&logo=Lua)
   ![](https://img.shields.io/badge/-Python-red?style=flat&logo=Python)
-  ![](https://img.shields.io/badge/-Cpp-red?style=flat&logo=CPlusPlus)
-  ![](https://img.shields.io/badge/-Java-red?style=flat&logo=Java)
-- ![](https://img.shields.io/badge/-HTML-blue?style=flat&logo=html5)
-  ![](https://img.shields.io/badge/-Vue-blue?style=flat&logo=Vue.js)
-- ![](https://img.shields.io/badge/-PS-blue?style=flat&logo=AdobePhotoshop)
-  ![](https://img.shields.io/badge/-PR-blue?style=flat&logo=AdobePremierePro)
