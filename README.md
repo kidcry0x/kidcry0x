@@ -4,7 +4,26 @@
 
 # Connect with me 👀
 
-- **My Website**: <a href="https://www.minhtq.pro/" target="blank"></a>
+- **My WebSite**: <a href="https://minhtq.pro/" target="blank">minhtq.pro</a>
+
+# Some of the projects I've worked on
+
+## Facebook Instant Games
+- [**Prison Escape: Lupin Adventure**](https://www.facebook.com/gaming/play/180095580641401/)
+- [**Rescue the Lover**](https://www.facebook.com/gaming/play/205082648150961/)
+- [**Troll Master - Draw One Part**](https://www.facebook.com/gaming/play/619040539070326/)
+- [**Troll Master 2 - Delete One Part**](https://www.facebook.com/gaming/play/609835769995647/)
+- [**Merge Planet 2048**](https://www.facebook.com/gaming/play/540502040387935/)
+- [**Shoot the Bubbles**](https://www.facebook.com/gaming/play/2364594887004738)
+- [**Hexa: Reach the Start**](https://www.facebook.com/gaming/play/2001581040017206/)
+
+## Playable Ads
+
+- [**playable-ads-archives**](https://github.com/kidcry0x/playable-ads-archives)
+
+# Multiplayer Games
+
+- [**Rocket Winner**](https://www.glisgames.com/products/play/?gameId=RocketWinner)
 
 # Tech Stack ⭐
 - ![](https://img.shields.io/badge/-Cocos-black?style=flat&logo=Cocos)
