@@ -4,7 +4,8 @@
 
 # Connect with me 👀
 
-- **My WebSite**: <a href="https://minhtq.pro/" target="blank">minhtq.pro</a>
+## Website
+- [**MINHTQ.PRO**](https://minhtq.pro/)
 
 # Some of the projects I've worked on
 
