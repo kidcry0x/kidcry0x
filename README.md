@@ -1,7 +1,5 @@
 # Hi 👋, I'm Minh Tran
 
-[![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidcry0x&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/kidcry0x)
-
 ## Tech Stack ⭐
 - ![](https://img.shields.io/badge/-Cocos-black?style=flat&logo=Cocos)
   ![](https://img.shields.io/badge/-Unity-black?style=flat&logo=Unity)
