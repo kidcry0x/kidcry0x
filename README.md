@@ -6,7 +6,7 @@
   ![](https://img.shields.io/badge/-PlayCanvas-black?style=flat&logo=PlayCanvas)
   ![](https://img.shields.io/badge/-ThreeJs-black?style=flat&logo=Three.JS)
 - ![](https://img.shields.io/badge/-Angular-black?style=flat&logo=Angular)
-  ![](https://img.shields.io/badge/-Nuxt-black?style=flat&logo=Nuxt.js)
+  ![](https://img.shields.io/badge/-React-black?style=flat&logo=React.js)
   ![](https://img.shields.io/badge/-Flutter-black?style=flat&logo=Flutter)
 - ![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)
   ![](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript)
