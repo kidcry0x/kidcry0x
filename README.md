@@ -18,7 +18,6 @@
 ### ⚙️ Languages
 ![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)
 ![](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript)
-![](https://img.shields.io/badge/-Go-black?style=flat&logo=Go)
 ![](https://img.shields.io/badge/-Dart-black?style=flat&logo=Dart)
 ![](https://img.shields.io/badge/-C%23-black?style=flat&logo=CSharp)
 
@@ -31,6 +30,7 @@
 ### 🗄 Databases
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB)
 ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL)
+![](https://img.shields.io/badge/-Redis-black?style=flat&logo=Redis)
 
 ## 📬 Get in Touch
 
