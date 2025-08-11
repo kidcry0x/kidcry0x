@@ -34,6 +34,6 @@
 
 ## 📬 Get in Touch
 
-- Read more of my portfolio on [minhtq.pro](https://minhtq.pro)
+- Read more of my portfolio on [minhtq.pro](https://minhtqs.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
